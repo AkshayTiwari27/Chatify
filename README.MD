@@ -8,7 +8,7 @@ Chatify is a high-performance, full-stack chat application engineered to provide
 -----
 ## 📌 Live Demo
 
-[🚀 Click here to view the deployed project]()
+[🚀 Click here to view the deployed project](https://chatify-287av.sevalla.app/)
 ----
 
 ## ✨ Features & Technical Implementation
