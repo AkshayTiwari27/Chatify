@@ -1,6 +1,6 @@
 
 # Chatify ✨: Real-Time Full-Stack Chat Application
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white) ![Arcjet](https://img.shields.io/badge/Arcjet-0A0A0A?style=for-the-badge&logo=arcjet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ## Executive Summary
 
 Chatify is a high-performance, full-stack chat application engineered to provide a seamless, real-time messaging experience. This project demonstrates a robust, modern architecture using the MERN stack (MongoDB, Express, React, Node.js) and features custom JWT authentication, real-time communication via Socket.io, and integration with third-party services for email notifications and media handling. The platform is designed to be scalable, secure, and user-friendly, showcasing a comprehensive skill set in full-stack development.
@@ -20,17 +20,6 @@ Chatify is a high-performance, full-stack chat application engineered to provide
 | **🚦 API Rate-Limiting** | Protects the backend from brute-force attacks and abuse by integrating **Arcjet** for intelligent rate-limiting. A dedicated middleware (`backend/src/middleware/arcjet.middleware.js`) inspects incoming requests to the authentication endpoints and enforces limits. |
 | **🧰 Robust REST API** | The backend is a well-structured RESTful API built with **Node.js** and **Express**. It features a modular design with clear separation of concerns for routes (`/routes`), controllers (`/controllers`), and database models (`/models`), ensuring maintainability and scalability. |
 
------
-
-## 🛠️ Technologies Used
-
-### Frontend
-
-### Backend
-
-### Database
-
-### Services
 
 -----
 
