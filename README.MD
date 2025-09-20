@@ -6,6 +6,10 @@
 Chatify is a high-performance, full-stack chat application engineered to provide a seamless, real-time messaging experience. This project demonstrates a robust, modern architecture using the MERN stack (MongoDB, Express, React, Node.js) and features custom JWT authentication, real-time communication via Socket.io, and integration with third-party services for email notifications and media handling. The platform is designed to be scalable, secure, and user-friendly, showcasing a comprehensive skill set in full-stack development.
 
 -----
+## 📌 Live Demo
+
+[🚀 Click here to view the deployed project]()
+----
 
 ## ✨ Features & Technical Implementation
 
